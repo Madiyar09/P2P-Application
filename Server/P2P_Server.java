@@ -1,11 +1,5 @@
 package p2p_server;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 import P2P_Client.Encryption;
 import P2P_Client.FilePath;
 import java.io.*;
